@@ -10,5 +10,4 @@ public class SpringJnknDkrProjectApplication {
 		SpringApplication.run(SpringJnknDkrProjectApplication.class, args);
 		System.out.println("Java, Jenkin and docker");
 	}
-
 }
